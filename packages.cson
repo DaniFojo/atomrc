@@ -1,10 +1,12 @@
 packages: [
   "atom-beautify"
-  "atom-python-run"
   "autocomplete-python"
   "git-time-machine"
   "hyperclick"
+  "language-latex"
+  "language-matlab"
   "latex"
+  "latex-autocomplete"
   "markdown-pdf"
   "markdown-preview-plus"
   "markdown-writer"
@@ -12,4 +14,6 @@ packages: [
   "package-sync"
   "pdf-view"
   "python-isort"
+  "script"
+  "sort-lines"
 ]

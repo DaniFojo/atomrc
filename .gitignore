@@ -1,10 +1,10 @@
-storage
+.apm/
+.node-gyp
+.npm
+blob-store/
 compile-cache
 dev
-.npm
-.node-gyp
+markdown-preview-plus.cson
 packages/
 recovery/
-blob-store/
-.apm/
-markdown-preview-plus.cson
+storage
