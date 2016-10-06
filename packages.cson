@@ -3,6 +3,7 @@ packages: [
   "atom-python-run"
   "autocomplete-python"
   "git-time-machine"
+  "hyperclick"
   "latex"
   "markdown-pdf"
   "markdown-preview-plus"
