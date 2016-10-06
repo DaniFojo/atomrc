@@ -1,0 +1,12 @@
+packages: [
+  "atom-beautify"
+  "atom-python-run"
+  "autocomplete-python"
+  "git-time-machine"
+  "markdown-pdf"
+  "markdown-preview-plus"
+  "markdown-writer"
+  "package-sync"
+  "pdf-view"
+  "python-isort"
+]
