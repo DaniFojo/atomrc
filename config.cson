@@ -4,7 +4,6 @@
       _analyticsUserId: "a8b9466f-ff4f-4fc8-b5a5-781455c054c3"
   core:
     disabledPackages: [
-      "latex"
       "markdown-preview"
       "spell-check"
     ]
@@ -17,7 +16,11 @@
     userId: "2b49ad9d-935e-3627-174d-1ffcacb1a2da"
   "keyboard-localization":
     useKeyboardLayout: "es_ES"
-  latex: {}
+  latex:
+    buildOnSave: true
+    texPath: "C:\\Program Files (x86)\\MiKTeX 2.9\\miktex\\bin"
+  linter:
+    errorPanelHeight: 67
   "package-sync":
     createOnChange: true
     forceOverwrite: true
